@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "stu.xwx.xte.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "XtechMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

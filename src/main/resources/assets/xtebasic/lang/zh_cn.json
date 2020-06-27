@@ -1,0 +1,7 @@
+{
+  /*矿物*/
+  "block.xtebasic.ore_lead_zinc" : "铅锌矿",
+  "block.xtebasic.ore_malachite" : "孔雀石",
+  /*物品组*/
+  "itemGroup.xtebasic.ores": "Xtech矿物"
+}
